@@ -1,0 +1,307 @@
+﻿Scrum - Rituals Workbook
+
+
+
+
+
+
+Iterative Time-box Activities
+Analyze
+	Design
+	Construct
+	Integrate
+	Test
+	
+
+
+
+
+
+
+
+
+
+Quality of an Iteration
+Produces a usable, working Increment, meets the Definition of Done, aligns with the Sprint Goal, and the quality is built into the work, not added at the end.
+	
+
+Quality of Outcome Determination
+Determined by the Definition of Done (DoD) whether the Increment is potentially releasable, meets acceptable criteria, delivers value to stakeholders and is reviewed during the Sprint Review.
+	
+
+
+
+
+
+Sprint definition
+A time-boxed iteration (usually 1-4 weeks). During a Sprint, the team: builds a product increment and works towards a Sprint Goal. Scope may be clarified, but the Sprint Goal remains stable.
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+Determination of length of sprint.
+Chosen by the Scrum Team, is fixed and consistent for predictability and is typically 1 to 4 weeks. Shorter Sprints reduce risk, increase feedback and longer Sprints may delay learnig and value delivery. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Sprint Rituals 
+Sprint Planning Meeting
+
+
+Sprint Planning
+Daily Stand-ups
+Develop work
+
+
+
+
+
+
+
+
+
+
+Sprint Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sprint Retrospective
+	
+
+Beginning of every sprint
+Designated time every day
+Team members perform work every day to move sprint forward towards achieving the sprint goal
+
+A scheduled meeting where the completed increment is demonstrated to stakeholders and feedback about increment viability is received by the team
+
+
+The final meeting of a sprint where team members evaluate how well they performed as a team in this sprint. YThe goal of this meeting is to look for ways that the team can improve their productivity and increase their velocity
+	Estimation
+
+
+The act of determining (guessing) the expected size of something.
+
+
+	In Scrum, estimating helps to set expectations as to the amount of work that can be performed or the length of time until something is finished.
+
+
+	
+
+
+
+   3 types of estimation                         When this occurs                 Unit of measure
+Portfolio Backlog
+	During strategic planning and roadmapping (before team level work)
+	High level estimates (T-shirt sizes, Epics, or cost ranges)
+	Product Backlog
+	During Product Backlog Refinement
+	Story Points
+	Sprint Backlog Tasks
+	During Sprint Planning and throughout the Sprint
+	Time (hour or days)
+	
+
+
+
+
+
+
+
+Scrum Roles Involved in Estimation
+
+
+  
+Planning Poker                                                         Triangulation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideal day / Ideal hour
+
+
+The amount of time a task would take with no interruptions and assumes no meetings, emails, blockers, only full focus.
+	Problems with Ideal estimation
+
+
+Unrealistic in real work environments because it ignores meetings, context switching, dependencies and leads to over commitment, missed deadlines and frustration and encourages false precision.
+	
+
+
+
+Daily Standup
+Purpose
+Inspect progress toward the Sprint Goal, identify impediments early anf align the teams plan for the next 24 hours.
+	3 Questions
+
+
+What have you done since the last meeting?
+
+
+What are you planning to do before the next meeting? 
+
+
+Do you experience any obstacles?
+
+
+	Rules
+
+
+Timed-boxed to 15 minutes
+Happens every day of the Sprint
+Developers lead it
+Focused on the Sprint Goal
+Side discussion happen after the meeting
+Same time and place every day
+	
+
+
+
+
+
+Pair Programming 
+
+
+Collective code ownership!
+All team members understand the code.
+
+
+Two team members; one task.
+Driver and navigator.
+
+
+Constant reflection (real-time reviewing).
+
+
+Reduction of noise.
+
+
+	
+
+Sprint Review Meeting
+Purpose
+Inspect the increment completed during the Sprint, gather feedback from stakeholders, determine what to do next with the Product Backlog, ensure the product is moving toward the Product Goal.
+
+
+
+
+	Participants
+
+
+Scrum Team: Product Owner, Developers, Scrum Master
+Stakeholders: customers, users, business reps, sponsors
+	Timing
+
+
+Held at the end of the Sprint, time-boxed up to 4 hours for a 1 month Sprint and shorter Sprints shorter reviews.
+	Location
+
+
+In person or virtual, wherever the stakeholders can easily attend and often held in the same location as other Scrum events for consistency.
+	Expected Outcomes
+
+
+Shared understanding of what was completed and what was not completed. Feedback captured, Product Backlog updated or reprioritized and agreement on next steps and future direction.
+	
+
+
+
+Sprint Retrospective Meeting 
+Last activity in a sprint.
+
+
+3 hours max.
+
+
+Reflect on sprint.
+
+
+Improvements of process for future.
+
+
+Review ‘Definition of Done.’
+	
+
+	
+
+	
+
+	
+
+	
+
+Ritual Timing 
+Sprint Duration
+	1 month
+	Daily Stand-up
+	15 minutes
+	Spring Planning
+	8 hours
+	Spring Review
+	4 hours
+	Sprint Retrospective
+	3 hours
