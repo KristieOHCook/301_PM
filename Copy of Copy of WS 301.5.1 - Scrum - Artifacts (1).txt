@@ -1,0 +1,169 @@
+﻿Scrum - Artifacts Workbook
+Definition of Done 
+Definition
+	Should include everything we do for all items in this increment release, including user acceptance testing. The definition of ‘done’ is a well-understood and clearly documented definition of items that must be established to mark a story (or iteration or project) to be complete. Getting a story to a completed state per the definition of done should be the goal of a team and should be used as the basis for planning.         
+
+
+	Purpose
+	* Assessment/Checklist allows work to be defined as “Done.”
+
+
+* Defined by the development team.
+
+
+* Varies per team: Understandable for the team.
+
+
+* Helps to define how many items can be selected for Sprint.
+
+
+* More mature teams: More stringent criteria.
+
+
+	
+
+Product Backlog
+Definition
+	used to document the wants and needs for “stuff,” which is prioritized by how much value it is to the business.
+
+
+	Purpose
+	* Different people in the business will ask for different “stuff.”
+* Not everything that is asked for has value to the business.
+* Some things may be valuable only to the person asking rather than to the entire business.
+* By prioritizing value to the business, non-value add or less-value add items are eliminated or moved to the bottom of the list.
+* The list is worked based on what the highest priority or value is to the business.
+
+
+	Ordering
+	* Contains any/all requests from the business for new items/changes to existing items.
+* Ordered list of all user requests/requirements.
+* Each item takes the form of user stories.
+
+
+	Product Backlog  Grooming
+	* Product Backlog is constantly re-evaluated and re-ordered, and items added or removed in a process are called Product Backlog Grooming.
+
+
+	Large Items
+	* Very large PBIs are called Epics.
+   * Epics are broken down into smaller digestible chunks before being considered for work being done.
+
+
+	PBIs
+	* Each entry is called a Product Backlog Item (PBI).
+* Items are arranged based on value to the business.
+
+
+	
+
+
+
+Sprint Backlog
+Definition
+	List of work to be performed during this Sprint.
+
+
+	Purpose
+	To clearly define what the team will work on during the sprint and keep everyone focused on the same goal.Shows exactly what work is being done now, helps the team stay organized and aligned, sets a realistic commitment for the sprint and tracks progress toward the sprint goal.
+	Source of items
+	Product Backlog Item Forecast, Sprint Planning Task To Do, Sprint Task in Process and Sprint Task Done
+	How are items chosen?
+	Chosen during sprint planning by the development team. The product owner presents the highest-priority items from the product backlog, the team discusses and estimates the work, the team selects only what they can realistically complete in the sprint and items chosen support the sprint goal.
+	What does value 
+orientation vs. results orientation mean?
+	Value orientation focuses on why the work matters (emphasizes customer value, impact, and usefulness. Asks “Does this help the user or business?” Success+ delivering something meaningful, even if it’s small. Common in Agile thinking. 
+Results orientation focuses on what was produced. Emphasizes outputs, metrics, and deadlines.Asks “Did we finish what was planned?” Success = hitting targets, milestones, or KPIs, common in traditional/project-heavy environments.
+	Task Board
+	Interactive visual board listing of work to be/being performed during Sprint.
+Used daily to identify workflow.
+Displayed in a common work area.
+
+
+	Sprint Backlog Item
+	Sprint Backlog items are broken down into tasks with each task having a planned maximum duration of two days.
+
+
+	
+
+
+
+  
+Burndown Chart
+Purpose
+	Visual progress tracker that shows how much work remains in a sprint and whether the team is on track to finish on time.
+	How is it updated?
+	Updated as work is completed, usually daily by reducing remaining work as sprint backlog items are completed.
+	How often is  
+Is it used?
+	Daily during a sprint
+	Significance?
+	It gives a clear, visual picture of whether the team is on track to complete the sprint and helps the team monitor progress, spot risks early, and ensure sprint goals are met.
+	User Stories
+  
+
+Definition
+Short , simple description of a feature written from the user’s point of view that explains what they want and why.
+	
+
+	Purpose
+Helps the teams understand user needs and guide development toward delivering value
+	
+
+	Format
+Explain the “who,” “what,” and “why” of a requirement.
+
+
+	name
+brief narrative
+acceptance criteria
+any defined conditions
+
+
+Story: "As a <user type>, I want to <do some action> so that <desired result>.”
+
+
+	Source
+
+
+Created based on user needs, stakeholder input, and business requirements.
+
+
+	Customers or end users
+Product owners
+Stakeholders
+User research
+Support tickets or issues
+	Attributes for completeness
+
+
+INVEST Criteria:
+
+
+I-Independent can be developed on its own
+N-Negotiable flexible and open to discussion
+V-Valuable Delivers value to the user or business
+E-Estimate Team can estimate the effort
+S-Small Fits within a single sprint
+T-Testable Can be verified with clear outcomes
+	
+
+	
+
+Estimation
+
+
+Story Points 
+	A way Agile teams estimate the size and effort of a user story. They measure how hard something is, not how long it takes.
+	Planning Poker
+	1. The product owner explains a user story.
+2. Team members each choose a story point card
+3. Everyone reveals their card at the same time
+4. Differences are discussed
+5. The team agrees on a final estimate
+
+
+This prevents one person from influencing others. Encourages discussion and shared understanding. Leads to more accurate estimates.
+	Fibonacci  
+Sequence
+	A series of numbers where each number is the sum of the two numbers before it. It’s used in Agile estimation to reflect increasing uncertainty as work becomes larger.
