@@ -1,0 +1,84 @@
+﻿Scrum - Roles Workbook
+
+
+Roles
+Product Owner
+	Scrum Master
+	Scrum Team
+	
+
+Scrum Development Team 
+Composition
+	Made up of professionals who do the work to deliver the usable increment each sprint.
+	Organization
+	Self-organizing (no manager assigning tasks). The team decides how to turn Product Backlog items into working products.
+	Cross-functional
+	Has all skills needed to deliver a “Done” Increment. No dependencies on people outside the team to complete work.
+	Responsible to:
+	Accountable to the Scrum Team collectively responsible for delivering a potentially releasable Increment. Not individually blamed, success and failure are shared.
+	Authority
+	 The development team has the authority to decide how the work is done, how many Product Backlog items they can pull into a Sprint, create and manage the Sprint Backlog, assign tasks to themselves, and adapt their plan daily during the Sprint.
+	Size
+	Typically 3-9 members, small enough to stay agile. Large enough to complete meaningful work each Sprint.
+	
+
+Product Owner
+Owner of Artifact?
+	Owns the Product Backlog, responsible for content, order, and transparency. Ensures backlog items are clear and visible to the Scrum Team.
+	Product Backlog  Grooming
+	Leads and owns backlog refinement. Ensures items are clearly defined, appropriately sized, and prioritized by value, risk, and dependencies. Refinement is ongoing, not a single meeting.
+	Collects
+	Gathers requirements from Stakeholders, customers, users and business leadership. Translates needs into Product Backlog Items (PBIs).
+	Attends Sprint  
+Planning Meeting
+	Required attendee explains product goals, top backlog items and acceptance criteria. Collaborates with Developers on Sprint Goal and does not assign work.
+	Accountability
+	The Product Owner is accountable for maximizing product value, Product Backlog management, ensuring work aligns with Product Goal, making final priority decisions and accepting or rejecting completed work.
+	Scrum Master 
+Coach—Servant Leader
+	Acts as a servant leader to the Scrum Team, Coaches the team on Scrum values, events, and practices. Helps the team improve self-organization and collaboration.
+	Shields Team
+	Protects the Developers from distractions, scope creep, outside interruptions. Ensures the team can stay focused on the Sprint Goal.
+	Deals w/Obstacles
+	Identifies and removes impediments blocking progress. Escalates issues the team cannot resolve alone. Works across the organization to improve flow and delivery.
+	Daily Standup Role
+	Ensures the Daily Scrum happens and stays effective. Teaches the team to keep it short (15 min), focus on progress toward the Sprint Goal, and does not control the meeting (Developers own it).
+	Team Velocity
+	Helps the team understand and use velocity correctly. Uses velocity for forecasting, not performance evaluation. Prevents misuse of velocity as a management metric.
+	Assist Product Owner
+	Helps with Product Backlog refinement, writing clear backlog items and understanding stakeholder needs. Coaches the PO on value-based prioritization. Helps improve communication between PO and Developers.
+	
+
+
+
+Velocity
+Definition
+	The amount of work a Scrum Team completes in a Sprint. Usually measured in story points (or similar relative units). It is team-specific and cannot be compared across teams.
+	Calculated by:
+	Calculated by the end of a Sprint. Add up to the story point of Product Backlog items that are fully “Done”. Only completed work counts (partially done items = 0)
+Example: Sprint completes stories worth 5, 8, and 3 points—Velocity = 16
+	Purpose
+	Helps the team forecast future work. Assist in Sprint Planning, supports release planning and timeline predictions and tracks tends to help the team improve predictability.
+	Team Velocity 
+How often calculated.
+	Calculated once per Sprint, reviewed during the Sprint Review and/or Retrospective, and trends are observed over multiple Sprints (not justy one).
+	Calculated by:
+	The Development Team adds up the story points of all Product Backlog Items marked “Done”. Only fully completed items count.
+Formula: Velocity = Total story points completed in the Sprint.
+	Purpose
+	Forecasting how much work the team can handle in future Sprints. Helps with Sprint planning, supports release planning and improves predictability, not speed pressure.
+	
+
+
+
+Capacity
+Definition
+	The actual amount of work time the Development Team has available in a Sprint. Based on real availability, not estimates or goals. Measured in time (hours or days), not story points.
+	Purpose
+	Helps the team decide how much work to commit to in a Sprint. Accounts for vacations, holidays, meetings, training, on-call duties and prevents overcommitting and burnout and supports realistic Sprint Planning.
+
+
+It’s used to determine tram availability, subtract non-working time and use remaining capacity to select backlog items.
+	
+
+Stakeholder Interactions
